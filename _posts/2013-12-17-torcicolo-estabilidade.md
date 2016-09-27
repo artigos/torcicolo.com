@@ -4,9 +4,9 @@ title: Estabilidade da coluna cervical
 permalink: /torcicolo-estabilidade.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Estabilidade da coluna cervical
+## Estabilidade da coluna cervical
 
 Esta estabilidade é dada por um imenso conjunto de ligamentos, que permitem a limitação dos movimentos. Assim temos:
 
@@ -26,7 +26,7 @@ Fig. 3 – Ligamentos craniocervicais externos – Vista lateral direita
 * Ligamento alar: limita a rotação da cabeça para o lado homolateral e flexão lateral ou inclinação para o lado contralateral;
 * Ligamento interespinhoso: limita a flexão.
 
-##Movimentos do Pescoço
+## Movimentos do Pescoço
 
 A coluna cervical permite movimentos em três eixos e três planos de movimentos. São eles: flexão/extensão, inclinações e rotações.
 
@@ -36,7 +36,7 @@ Fig. Vértebras cervicais C1 a C4 – Vista póstero-superior
 
 A coluna cervical possui 7 vértebras, constituindo as 2 primeiras – atlas e áxis * (C1 e C2, respectivamente) a coluna cervical superior e as 5 restantes (C3 a C7) a coluna cervical inferior.
 
-##Musculatura
+## Musculatura
 
 A coluna cervical encontra-se também provida de diversos músculos, com funções muito específicas.
 

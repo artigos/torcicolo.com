@@ -4,9 +4,9 @@ title: Tratamento do torcicolo
 permalink: /torcicolo-tratamento.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O principal tratamento é o repouso no leito (cama), que melhora o torcicolo em 12 a 24 horas.
+## O principal tratamento é o repouso no leito (cama), que melhora o torcicolo em 12 a 24 horas.
 
 A aplicação de um saco com gelo seguido de aquecimento local pode ser extremamente relaxante.
 

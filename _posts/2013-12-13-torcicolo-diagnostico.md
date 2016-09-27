@@ -4,9 +4,9 @@ title: Diagnóstico do torcicolo
 permalink: /torcicolo-diagnostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Durante o exame físico de um lactente, o médico pode detectar uma lesão de um músculo do pescoço que pode causar torcicolo.
+## Durante o exame físico de um lactente, o médico pode detectar uma lesão de um músculo do pescoço que pode causar torcicolo.
 
 Para diagnosticar o distúrbio em crianças e adultos, o médico investiga detalhadamente lesões anteriores e outros problemas do pescoço.
 

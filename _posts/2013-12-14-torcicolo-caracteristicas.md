@@ -4,9 +4,9 @@ title: Caraterísticas do torcicolo
 permalink: /torcicolo-caracteristicas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O torcicolo caracteriza-se pela presença de um espasmo muscular contínuo ou intermitente, que atinge os músculos do pescoço (p.ex. esternocleidomastoideu) produzindo uma rigidez.
+## O torcicolo caracteriza-se pela presença de um espasmo muscular contínuo ou intermitente, que atinge os músculos do pescoço (p.ex. esternocleidomastoideu) produzindo uma rigidez.
 
 A manifestação dominante é a contractura dolorosa do músculo esternocleidomastoideu, do lado do traumatismo, o que provoca a adopção de uma postura de defesa – inclinação homolateral e rotação contralateral, ocasionada pelo encurtamento irredutível do músculo afectado. As crianças podem também segurar o braço do lado afectado, de modo a fazer subir a clavícula e diminuir a tensão do músculo.
 

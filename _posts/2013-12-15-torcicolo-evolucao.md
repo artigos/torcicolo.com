@@ -4,9 +4,9 @@ title: Evolução do torcicolo
 permalink: /torcicolo-evolucao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Cerca de 10% a 20% dos indivíduos com torcicolo – geralmente indivíduos jovens com quadro leve – recuperam-se sem tratamento em um prazo de cinco anos.
+## Cerca de 10% a 20% dos indivíduos com torcicolo – geralmente indivíduos jovens com quadro leve – recuperam-se sem tratamento em um prazo de cinco anos.
 
 Entretanto, na maioria dos casos, o distúrbio piora de forma gradual de um a cinco anos e, em seguida, estabiliza.
 

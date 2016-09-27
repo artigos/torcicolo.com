@@ -4,9 +4,9 @@ title: Causas do torcicolo
 permalink: /torcicolo-causas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As causas desta situação não são exatamente conhecidas.
+## As causas desta situação não são exatamente conhecidas.
 
 Contudo, sabe-se que é frequente após um traumatismo, nem sempre valorizado, ou após um parto difícil (torcicolo congénito do recém-nascido), e pode associar-se a algumas doenças, como as disquinésias tardias, os tumores do pescoço, as infecções do sistema nervoso e o hipertiroidismo.
 

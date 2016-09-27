@@ -3,9 +3,9 @@ layout: default
 title: O torcicolo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O torcicolo é um distúrbio do pescoço caraterizado pelo enrijecimento dos músculos dessa região.
+## O torcicolo é um distúrbio do pescoço caraterizado pelo enrijecimento dos músculos dessa região.
 
 Isto faz com que os movimentos da cabeça se tornem muito dolorosos e limitados.
 
